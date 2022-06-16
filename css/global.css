@@ -1,0 +1,75 @@
+.wrapper {
+    max-width: 428px;
+    margin: 0 auto;
+    Font-family: 'Segoe UI';
+}
+
+.container {
+    max-width: 317px;
+    margin: 0 auto;
+    Font-family: 'Segoe UI';
+
+}
+
+.container-two {
+    max-width: 376px;
+    margin: 0 auto;
+}
+
+.container-two-two {
+    max-width: 376px;
+    margin: 0 auto;
+}
+
+.container-benefit {
+    max-width: 334px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-contact {
+    max-width: 368px;
+    margin: 0 auto;
+}
+
+.container-order {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.container-inf-order {
+    max-width: 117px;
+    margin: 0 auto;
+}
+
+.container-transport {
+    max-width: 357px;
+    margin: 0 auto;
+}
+
+.container-register {
+    max-width: 405px;
+    margin: 0 auto;
+    background: #347FE1;
+    border-radius: 23px;
+    height: 532px;  
+}
+
+.container-login {
+    max-width: 285px;
+    margin: 0 auto;
+    padding-top: 80px;
+}
+
+.container-with-pakago {
+    max-width: 361px;
+    margin: 0 auto;
+    padding-top: 25px;
+}
+
+.container-footer {
+    max-width: 380px;
+    margin: 0 auto;
+    
+}
