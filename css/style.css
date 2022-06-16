@@ -685,11 +685,6 @@
   padding-bottom: 34px;
 }
 
-.duong-ke-doc {
-  margin-top: 38px;
-  height: 228px;
-}
-
 .columns-steps {
   display: flex;
 }
@@ -716,6 +711,28 @@
 .img-laptop {
   width: 100%;
   height: 481px;
+}
+
+.inf-register {
+  position: absolute;
+  width: 253px;
+  height: 138.26px;
+  left: 87px;
+  background: #e86830;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  opacity: 0.8;
+  margin-top: 415px;
+}
+
+.text-inf-register {
+  font-weight: 700;
+  font-size: 21px;
+  width: 210px;
+  color: #ffffff;
+  text-transform: uppercase;
+  text-align: center;
 }
 
 .register {
@@ -793,7 +810,7 @@
   padding-top: 40px;
   display: flex;
   text-align: center;
-  color: #A2A2A2;
+  color: #a2a2a2;
 }
 
 ::placeholder {
